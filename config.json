@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercetch",
+        "uuid": 30854950,
+        "checksum": "gl70ow"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
